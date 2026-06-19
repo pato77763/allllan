@@ -17,3 +17,4 @@ git branch -M main
 
 # 4. Envia de forma limpa ao GitHub (forçando a atualização correta)
 git push -u origin main -f
+git vite buld
